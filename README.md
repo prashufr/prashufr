@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashufr&label=Profile%20views&color=0e75b6&style=flat" alt="prashufr" /> </p>
 
-- 🌱 I’m currently learning **AGI,ASI**
+- 🌱 I’m currently learning **PyTorch**
 
 - 💬 Ask me about **AWS,Data Science**
 
